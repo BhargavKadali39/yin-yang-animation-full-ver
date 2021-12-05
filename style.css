@@ -24,6 +24,8 @@ body{
     height: 300px;
     transform: translate(-50%,-50%);
     animation: move 5s linear infinite;
+    box-shadow:  11px -11px 22px #292929,
+        -11px 11px 22px #a3a3a3;
 }
 
 
